@@ -51,7 +51,8 @@ def getSTR_l(l):
     return '{} {} {}'.format('{','}'" , ".join([str(i) for i in l]),'}')
 
 n = [line(coordinate(0,0),coordinate(1,0)),]
-for i in range(2):
+resolution = 2 #resolution here************************************************************************
+for i in range(resolution):
     n = i_lines(n)
 
 #pyplot display
