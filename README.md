@@ -1,2 +1,2 @@
 # vonkochcurve
-Von Koch Curve Generator
+Blender Addon to Generate the Von Koch Curve 
